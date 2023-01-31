@@ -14,7 +14,7 @@
         android:backgroundTint="#000000"
         android:fontFamily="@font/starjedi"
         android:rotationX="30"
-        android:text="La República Galáctica está sumida en disturbios. Hay protestas contra la tributación de las rutas comerciales a sistemas estelares.  Esperando resolver el problema con un bloqueo de mortíferos cruceros, la avariciosa Federación de Comercio ha detenido todos los envios al pequeño planeta de Naboo.  Mientras el Congreso de la República debate sin fin esta alarmante cadena de acontecimientos, el Canciller Supremo ha despachado en secreto a dos Caballeros Jedi, los guardianes de la paz y la justicia en la galaxia, a resolver el conflicto…"
+        android:text="@string/intro"
         android:textAlignment="viewStart"
         android:textColor="#D6C52D"
         android:textSize="14sp"
